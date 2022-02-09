@@ -1,4 +1,4 @@
-console.log('%c HI', 'color: firebrick')
+// console.log('%c HI', 'color: firebrick')
 
 // %c is a fancy way of putting css in our console. 
 
